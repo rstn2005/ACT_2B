@@ -27,7 +27,7 @@ public class Cafeteria {
     
         public static void main(String[] args) {
             Scanner input = new Scanner(System.in);
-        List<Item> cart = new ArrayList<>();
+            List<Item> cart = new ArrayList<>();
 
         while (true) {
             System.out.println(""); 
